@@ -44,8 +44,8 @@ app.MapGet("/health", () => Results.Ok(new { status = "healthy" }));
 // قاعدة بيانات الأكواد
 var userSubscriptions = new Dictionary<string, string>
 {
-    { "PIKA-112233", "http://server.com:8080/live/user1/pass1/1.m3u8" },
-    { "PIKA-998877", "http://server.com:8080/live/user2/pass2/2.m3u8" }
+    { "0101", "http://xlion.net:8080/get.php?username=342978163864&password=502994454784&type=m3u_plus" },
+    { "0202", "http://cf.business-cloud-8k.com:80/get.php?username=54fe3da1c125&password=b7c558bcfa&type=m3u_plus" }
 };
 
 // API للتحقق من الأكواد

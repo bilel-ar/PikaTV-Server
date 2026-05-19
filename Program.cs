@@ -44,7 +44,7 @@ app.MapGet("/health", () => Results.Ok(new { status = "healthy" }));
 // قاعدة بيانات الأكواد
 var userSubscriptions = new Dictionary<string, string>
 {
-    { "1311", "http://t77ert.top:80/get.php?username=Hsinakasoul&password=cDMHvjECqzYe4Nh&type=m3u_plus" },
+    { "1311", "http://favoritv85.shop:8080/get.php?username=Gokmen4104&password=2w2qXPbkJw&type=m3u_plus" },
     { "0202", "http://casa04.com:80/get.php?username=salwa365121&password=cx3oarntlz&type=m3u_plus" }
 };
 

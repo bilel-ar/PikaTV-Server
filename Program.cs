@@ -45,7 +45,7 @@ app.MapGet("/health", () => Results.Ok(new { status = "healthy" }));
 var userSubscriptions = new Dictionary<string, string>
 {
     { "1311", "http://mydroon.com:80/get.php?username=ibo919453&password=UljJJ4C0xWtlvcE&type=m3u_plus" },
-    { "0202", "http://casa04.com:80/get.php?username=salwa365121&password=cx3oarntlz&type=m3u_plus" }
+    { "0202", "http://kljx7.m4rv-el.space:2095/get.php?username=5432157882&password=77643245&type=m3u_plus" }
 };
 
 // API للتحقق من الأكواد
